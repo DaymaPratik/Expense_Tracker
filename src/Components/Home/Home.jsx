@@ -180,7 +180,7 @@ const Home = () => {
 
         <OutputTable transDataArr={transDataArr} deleteItem={deleteItem} />
       </section>
-      
+
     </main>
   );
 };
